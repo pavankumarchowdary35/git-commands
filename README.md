@@ -50,7 +50,7 @@ git checkout main
 ```
 #create v4 in dev & commit to the repo
 git switch main
-git merge dev
+git merge dev  (this will merge main to dev branch. switch to main branch and merge to dev branch)
 ```
 
 ## Git Checkouts
