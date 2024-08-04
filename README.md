@@ -50,7 +50,7 @@ git checkout main
 ```
 #create v4 in dev & commit to the repo
 git switch main
-git merge dev  (move to the branch you want to have changes and tell git merge branch-name (content form this 'branch-name' will be brought to the branch we are in)) ---- leni branch ki velli unna branch peru cheppali
+git merge dev  (move to the branch you want to have changes and tell git merge branch-name (content form this 'branch-name' will be brought to the branch we are in)) ---- leni branch ki velli unna branch peru cheppali(merge ani)
 ``` 
 
 ## Git Checkouts
